@@ -12,7 +12,7 @@
   Hi, I'm Gayathri, Software Engineer and Android Developer from India
   <br>
   <br>
-  👨‍🎓 I'm currently working at Warner Bros. Discovery Pvt Ltd.
+  👨‍🎓 I'm currently working at Warner Bros. Discovery
   <br>
   💻 I love Writing code, contributing , Problem Solving and learning anything about them 😊
   <br>
