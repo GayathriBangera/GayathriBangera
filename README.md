@@ -20,7 +20,7 @@
   <br>
   📫 How to reach me 👇
 </p>
-<p align="center"> <a href="https://www.linkedin.com/in/Gayathri-Bangera-928388122/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:gayathrivbangera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
+<p align="center"> <a href="https://www.linkedin.com/in/gayathri-v-75a3781a1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:gayathrivbangera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
   <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
 <!--    <a href="https://x.com/GayathriXBangera"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a> -->
 <!--   <a href="https://github.com/GayathriBangera/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
